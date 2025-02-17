@@ -39,7 +39,7 @@ You can connect with me via this <a href="https://www.linkedin.com/in/pawan-pree
 <img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
   </p>
 
-<!-- Projects -->
+<!-- Projects 
 <h2>🚀 Projects</h2>
 <h3> Check my repositories description</h3>
 <p>
@@ -47,7 +47,7 @@ You can connect with me via this <a href="https://www.linkedin.com/in/pawan-pree
  - **TextLens:** [Try here](https://pawancodecrafts.github.io/TextLens/)<br>
 - **Fashionista:** [Try here](https://pawancodecrafts.github.io/Fashionista-Html-css/)<br>
 - **TodoApp:** [Try here](https://pawancodecrafts.github.io/todo-React/)
-  </ul>
+  </ul>-->
 
 ## My GitHub Stats 📈
 <p align="center">
