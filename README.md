@@ -1,7 +1,4 @@
-<!-- Profile Banner (Optional) -->
-<p align="center">
-  <img src="github-pic.jpg" alt="GitHub Profile Picture" width="200">
-</p>
+
 
 <p>
   <h1 align="center">Hi 👋, 
