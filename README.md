@@ -3,10 +3,11 @@
 <p>
   <h1 align="center">Hi 👋, 
 I'M <b>PAWANPREET KAUR</b></h1>
+  <h1>I'm a Web Developer</h1>
 <p align="center">
-  <h3 >I'm a  **Web Developer looking for training and internship roles as a fresher** ! </h3>
+<!--   <h3 >I'm a Web Developer looking for job! </h3> -->
 <br>
-I'm in love with React, JavaScript, UI/UX Designs. I am actively building projects with React to enhance my skills! .
+I'm in love building websites. I am actively learning modern technologies to enhance my skills.
   
 **If you need a webdev, hire me ⬇
 
