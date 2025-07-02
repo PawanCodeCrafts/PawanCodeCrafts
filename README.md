@@ -2,12 +2,15 @@
 
 <p>
   <h1 align="center">Hi 👋, 
-I'M <b>PAWANPREET KAUR</b></h1>
-  <h1>I'm a Web Developer</h1>
+I'M <b>PAWANPREET KAUR</b>
+  <br>
+     I'm a Web Developer
+  </h1>
+ 
 <p align="center">
 <!--   <h3 >I'm a Web Developer looking for job! </h3> -->
 <br>
-I'm in love building websites. I am actively learning modern technologies to enhance my skills.
+I love building websites. I am actively learning modern technologies to enhance my skills.
   
 **If you need a webdev, hire me ⬇
 
