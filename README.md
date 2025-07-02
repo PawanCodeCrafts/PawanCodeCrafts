@@ -21,11 +21,11 @@ You can connect with me via this <a href="https://www.linkedin.com/in/pawan-pree
 <!-- About Section -->
 <h2>🧐 About Me</h2>
 
-- 🔭 I’m currently working on **React & Frontend Projects** to gain experience  
-- 💬 Ask me about **React, JavaScript, HTML, CSS, and UI Design**
-- 💬 I also like **PHP, Mysql**  & love explore **AI**
+- 🔭 I’m currently learning modern web technologies.  
+- 💬 I skilled in HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, REACT.
+- 💬 I love exploring AI.
 - 📫 Reach me at **kpawanpreet2003@gmail.com**  
-- ⚡ Fun fact: **I love building cool web apps & exploring ai!**
+- ⚡ Fun fact: **I love to do yoga**
   
 
 <!-- Tech Stack -->
