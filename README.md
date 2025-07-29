@@ -12,8 +12,6 @@ I'M <b>PAWANPREET KAUR</b>
 <br>
 I love building websites. I am actively learning modern technologies to enhance my skills.
   
-**If you need a webdev, hire me ⬇
-
 You can connect with me via this <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or  [by [E-mail](mailto:kpawanpreet2003@gmail.com)].
 </p>
   
@@ -21,10 +19,8 @@ You can connect with me via this <a href="https://www.linkedin.com/in/pawan-pree
 <!-- About Section -->
 <h2>🧐 About Me</h2>
 
-- 🔭 I’m currently learning modern web technologies.  
-- 💬 I skilled in HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, REACT.
-- 💬 I love exploring AI.
-- 📫 Reach me at **kpawanpreet2003@gmail.com**  
+- 🔭 I’m currently learning modern web technologies and build projects
+- 💬 I love exploring AI. 
 - ⚡ Fun fact: **I love to do yoga**
   
 
