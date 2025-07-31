@@ -1,53 +1,39 @@
 
+<h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
+<h3 align="center"> Aspiring Full Stack Web Developer | BCA Pursuing </h3>
 
-<p>
-  <h1 align="center">Hi 👋, 
-I'M <b>PAWANPREET KAUR</b>
-  <br>
-     I'm a Web Developer
-  </h1>
  
 <p align="center">
-<!--   <h3 >I'm a Web Developer looking for job! </h3> -->
 <br>
 I love building websites. I am actively learning modern technologies to enhance my skills.
   
-You can connect with me via this <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or  [by [E-mail](mailto:kpawanpreet2003@gmail.com)].
+You can connect with me via this <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or  [ [E-mail](mailto:kpawanpreet2003@gmail.com)].
 </p>
   
 </p>
 <!-- About Section -->
+<br><br>
 <h2>🧐 About Me</h2>
 
-- 🔭 I’m currently learning modern web technologies and build projects
+- 🧠 Love solving real-world problems and improving UI performance  
+- 🔧 Currently learning and working with modern technologies like Javascript , React & Python  
+- 🎯 Focused on developing real-time, scalable, and responsive web applications  
+- 📫 Always up for collaborations: **kpawanpreet2003@gmail.com**
 - 💬 I love exploring AI. 
 - ⚡ Fun fact: **I love to do yoga**
   
-
+<br><br>
 <!-- Tech Stack -->
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
-<img alt="ReactJs" src="https://img.shields.io/badge/react-f2ca61.svg?style=for-the-badge&logo=react&logoColor=140200"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,mysql,php,git,github,vscode,python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva Logo" width="40" height="40" />
+  <br> 
   </p>
+  <br><br>
 
-<!-- Projects 
-<h2>🚀 Projects</h2>
-<h3> Check my repositories description</h3>
-<p>
-  <ul>
- - **TextLens:** [Try here](https://pawancodecrafts.github.io/TextLens/)<br>
-- **Fashionista:** [Try here](https://pawancodecrafts.github.io/Fashionista-Html-css/)<br>
-- **TodoApp:** [Try here](https://pawancodecrafts.github.io/todo-React/)
-  </ul>-->
 
 ## My GitHub Stats 📈
 <p align="center">
@@ -55,6 +41,8 @@ You can connect with me via this <a href="https://www.linkedin.com/in/pawan-pree
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawancodecrafts&layout=compact&theme=radical" alt="Top Languages">
   </a>
 </p>
+
+
 
 
     
