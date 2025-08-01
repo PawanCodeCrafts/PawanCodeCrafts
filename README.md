@@ -4,11 +4,10 @@
 
  
 <p align="center">
-<br>
 I love building websites. I am actively learning modern technologies to enhance my skills.
-  <center>
-You can connect with me via this <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or [ by [E-mail](mailto:kpawanpreet2003@gmail.com)].
-  </center>
+ <br>
+You can connect with me via this <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or <a href="mailto:kpawanpreet2003@gmail.com">Email</a>
+
 </p>
   
 </p>
