@@ -27,8 +27,8 @@ You can connect with me via this <a href="https://www.linkedin.com/in/pawan-pree
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
   <br>
-<!--   -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,mysql,php,git,github,vscode,python" />
+<!-- mysql,php, -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode,python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva Logo" width="40" height="40" />
   <br> 
