@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
-<h3 align="center"> Aspiring Full Stack Web Developer | BCA Pursuing </h3>
+<h3 align="center"> Aspiring Full Stack Web Developer  </h3>
 
  
 <p align="center">
