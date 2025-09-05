@@ -1,26 +1,25 @@
 
 <h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
-<h3 align="center"> Aspiring Full Stack Web Developer  </h3>
+<h3 align="center">Full Stack Web Developer 🚀</h3>
 
- 
 <p align="center">
-I love building websites. I am actively learning modern technologies to enhance my skills.
- <br>
-You can connect with me via this <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or <a href="mailto:kpawanpreet2003@gmail.com">Email</a>
-
+  I love building modern, responsive websites and applications.  
+  Currently, I’m working with new technologies to sharpen my skills and create impactful projects.  
+  <br><br>
+  🔗 Connect with me on 
+  <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or 
+  <a href="mailto:kpawanpreet2003@gmail.com">Email</a>
 </p>
-  
-</p>
-<!-- About Section -->
-<br><br>
-<h2>🧐 About Me</h2>
 
-- 🧠 Love solving real-world problems and improving UI performance  
-- 🔧 Currently learning and working with modern technologies like Javascript , React & Python  
-- 🎯 Focused on developing real-time, scalable, and responsive web applications  
-- 📫 Always up for collaborations: **kpawanpreet2003@gmail.com**
-- 💬 I love exploring AI. 
-- ⚡ Fun fact: **I love to do yoga**
+---
+
+## 🧐 About Me  
+
+- 🧠 Passionate about solving real-world problems and improving UI/UX performance  
+- 🔧 Skilled in technologies like **JavaScript, React, and Python**  
+- 🎯 Focused on developing **scalable, real-time, and responsive web applications**  
+- 💬 Always curious about **AI & emerging tech**  
+- ⚡ Fun facts: I love doing **yoga 🧘** and creating designs on **Canva 🎨**
   
 <br><br>
 <!-- Tech Stack -->
