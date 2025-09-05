@@ -35,14 +35,17 @@
   <br><br>
 
 
-## My GitHub Stats 📈
+## 📈 GitHub Stats  
+
 <p align="center">
-  <a href="https://github.com/pawancodecrafts">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawancodecrafts&layout=compact&theme=radical" alt="Top Languages">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawancodecrafts&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawancodecrafts&theme=radical" alt="Profile Summary" />
 </p>
 
+---
 
+<p align="center">✨ Let’s connect and build something amazing together ✨</p>
 
 
     
