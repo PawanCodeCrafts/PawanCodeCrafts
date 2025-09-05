@@ -19,7 +19,9 @@
 - 🔧 Skilled in technologies like **JavaScript, React, and Python**  
 - 🎯 Focused on developing **scalable, real-time, and responsive web applications**  
 - 💬 Always curious about **AI & emerging tech**  
-- ⚡ Fun facts: I love doing **yoga 🧘** and creating designs on **Canva 🎨**
+- 😃 Fun facts:  
+  - 💻 I love to code  
+  - 🎬 I enjoy listening tech podcasts and watching kdramas  
   
 <br><br>
 <!-- Tech Stack -->
