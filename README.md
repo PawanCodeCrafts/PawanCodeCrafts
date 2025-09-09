@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
-<h3 align="center">Full Stack Web Developer 🚀</h3>
+<h3 align="center">Passionate Web Developer 🚀</h3>
 
 <p align="center">
   I love building modern, responsive websites and applications.  
