@@ -21,8 +21,7 @@
 - 💬 Always curious about **AI & emerging tech**  
 - 😃 Fun facts:
   - Love to do yoga
-  - 💻 I love to code  
-  - 🎬 I enjoy listening tech podcasts  
+  - 💻 I love to do code 
   
 <br><br>
 <!-- Tech Stack -->
