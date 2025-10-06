@@ -21,7 +21,7 @@
 - 💬 Always curious about **AI & emerging tech**  
 - 😃 Fun facts:
   - Love to code 💻
-  - Fueled by tea ☕
+  - Tea Lover ☕
 
   
 <br><br>
