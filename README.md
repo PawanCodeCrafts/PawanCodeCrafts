@@ -20,9 +20,7 @@
 - 🎯 Focused on developing **scalable, real-time, and responsive web applications**  
 - 💬 Always curious about **AI & emerging tech**  
 - 😃 Fun facts:
-  - Love to code 💻
-  - Tea Lover ☕
-
+  - I am TEA lover 🍵 
   
 <br><br>
 <!-- Tech Stack -->
