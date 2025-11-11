@@ -16,7 +16,7 @@
 ## 🧐 About Me  
 
 - 🧠 Passionate about solving real-world problems and improving UI/UX performance  
-- 🔧 Skilled in technologies like **JavaScript, React, and Python**  
+- 🔧 Skilled in technologies like **JavaScript, React, Python , Django**  
 - 🎯 Focused on developing **scalable, real-time, and responsive web applications**  
 - 💬 Always curious about **AI & emerging tech**  
 - 😃 Fun facts:
@@ -30,7 +30,8 @@
 <p align="center">
   <br>
 <!-- mysql,php, -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django,git,github,vscode" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva Logo" width="40" height="40" />
   <br> 
