@@ -2,6 +2,10 @@
 <h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
 <h3 align="center">Passionate Web Developer 🚀</h3>
 
+
+<!-- <img src="https://img.shields.io/badge/REST%20API-ff1709?style=for-the-badge&logo=django&logoColor=white" /> -->
+
+
 <p align="center">
   I love building modern, responsive websites and applications.  
   Currently, I’m working with new technologies to sharpen my skills and create impactful projects.  
@@ -27,9 +31,9 @@
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
   <br>
+  
 <!-- mysql,php, -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django,mysql,git,github,vscode" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva Logo" width="40" height="40" />
   <br> 
