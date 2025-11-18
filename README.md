@@ -20,7 +20,7 @@
 ## 🧐 About Me  
 
 - 🧠 Passionate about solving real-world problems and improving UI/UX performance  
-- 🔧 Skilled in technologies like **JavaScript, React, Python , Django**  
+- 🔧 Skilled in technologies like **JavaScript, React, Python, Django, MySQL **  
 - 🎯 Focused on developing **scalable, real-time, and responsive web applications**  
 - 💬 Always curious about **AI & emerging tech**  
 - 😃 Fun facts:
