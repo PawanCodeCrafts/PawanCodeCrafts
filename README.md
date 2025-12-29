@@ -1,12 +1,9 @@
 
 <h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
-<h3 align="center">Passionate Web Developer 🚀</h3>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🚀+Passionate+Web+Developer;Building+Real+World+Projects;Exploring+AI+and+Emerging+tech&center=true&width=1000&height=70)
 
-<!-- <img src="https://img.shields.io/badge/REST%20API-ff1709?style=for-the-badge&logo=django&logoColor=white" /> -->
-
-
-<p align="center">
+<p align="center">  
   I love building modern, responsive websites and applications.  
   Currently, I’m working with new technologies to sharpen my skills and create impactful projects.  
   <br><br>
@@ -14,42 +11,54 @@
   <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or 
   <a href="mailto:kpawanpreet2003@gmail.com">Email</a>
 </p>
+<br>
 
----
 
 ## 🧐 About Me  
 
-- 🧠 Passionate about solving real-world problems and improving UI/UX performance  
+- 🧠 Passionate about building real-world projects
 - 🔧 Skilled in technologies like **JavaScript, React, Python, Django, MySQL **  
 - 🎯 Focused on developing **scalable, real-time, and responsive web applications**  
 - 💬 Always curious about **AI & emerging tech**  
 - 😃 Fun facts:
-  - I am TEA lover 🍵 
+  - I am a TEA lover 🍵 
   
-<br><br>
-<!-- Tech Stack -->
-<h2> 🥞 Tech Stack</h2>
-<p align="center">
-  <br>
-  
-<!-- mysql,php, -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django,mysql,git,github,vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva Logo" width="40" height="40" />
-  <br> 
-  </p>
-  <br><br>
+<br>
 
+<h2> 🥞 Tech Stack</h2>
+
+**Languages:-**  &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+
+**Web Development:** &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+
+**Backend Development:** &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://img.shields.io/badge/REST%20Framework-API-red?style=for-the-badge&logo=django&size=25" />
+
+**Database:**  &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> MySQL
+
+**Tools:**  &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
+<img src="https://img.shields.io/badge/XAMPP-grey?style=for-the-badge&logo=xampp&size=25" />
+
+<br> <br>
 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawancodecrafts&layout=compact&theme=radical" alt="Top Languages" />
-  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawancodecrafts&theme=radical" alt="Profile Summary" />
 </p>
+<br>
 
----
+## Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=PawanCodeCrafts&color=green)
+
+<br>
 
 <p align="center">✨ Let’s connect and build something amazing together ✨</p>
 
