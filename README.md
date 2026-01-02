@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm PAWANPREET KAUR</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🚀+Passionate+Web+Developer;Building+Real+World+Projects;Exploring+AI+and+Emerging+tech&center=true&width=1000&height=70)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🚀+Passionate+Web+Developer;Building+Real+World+Projects;Exploring+AI+and+Emerging+tech&center=true&width=1000&height=100&size=28)
 
 <p align="center">  
   I love building modern, responsive websites and applications.  
