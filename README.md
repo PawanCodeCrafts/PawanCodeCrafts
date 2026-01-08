@@ -7,7 +7,7 @@
   I love building modern, responsive websites and applications.  
   Currently, I’m working with new technologies to sharpen my skills and create impactful projects.  
   <br><br>
-  🔗 Connect with me on 
+  🔗 contact me on 
   <a href="https://www.linkedin.com/in/pawan-preet2003/">LinkedIn</a> or 
   <a href="mailto:kpawanpreet2003@gmail.com">Email</a>
 </p>
@@ -48,12 +48,23 @@
 
 <br> <br>
 
-## 📈 GitHub Stats  
+
+## ☕ Connect With Me
+
+| Contact | Link |
+|--------|------|
+| 💼 LinkedIn | [Shubham Singh](https://www.linkedin.com/in/shubham-singh-64827a228/) |
+| 📧 Email | [iatco5h@gmail.com](mailto:iatco5h@gmail.com) |
+| 📞 Phone | [+91 9520132466](tel:+919520132466) |
+
+<br>
+
+<!-- ## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawancodecrafts&theme=radical" alt="Profile Summary" />
 </p>
-<br>
+<br> -->
 
 ## Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=PawanCodeCrafts&color=green)
