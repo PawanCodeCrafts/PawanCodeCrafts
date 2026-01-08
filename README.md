@@ -53,9 +53,9 @@
 
 | Contact | Link |
 |--------|------|
-| 💼 LinkedIn | [Shubham Singh](https://www.linkedin.com/in/shubham-singh-64827a228/) |
-| 📧 Email | [iatco5h@gmail.com](mailto:iatco5h@gmail.com) |
-| 📞 Phone | [+91 9520132466](tel:+919520132466) |
+| 💼 LinkedIn | [Pawanpreet Kaur](https://www.linkedin.com/in/pawan-preet/) |
+| 📧 Email | [kpawanpreet2003@gmail.com](mailto:kpawanpreet2003@gmail.com) |
+| 📞 Phone | [+91 9876812698](tel:+919876812698) |
 
 <br>
 
